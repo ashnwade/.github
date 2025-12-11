@@ -18,7 +18,7 @@ This PR addresses [ISSUE_LINK]
 
 <!-- Add tasks to this list as needed -->
 
-- [ ] e2e and/or unit tests provided. If not, please provide an explanation.
+- [ ] e2e and/or unit tests included. If not, please provide an explanation.
 - [ ] **Bug fixes only:** minimal repro steps included on the issue (for PR QA + Release QA).
 
 ## Reviewer Tasks
